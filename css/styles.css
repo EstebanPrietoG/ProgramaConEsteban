@@ -58,6 +58,12 @@
     background-color: #36363685;
 }
 
+.is-medium-image{
+    max-width: 50%;
+    position: relative;
+    left: 25%;
+}
+
 @media (max-width: 1023px) {
     .navbar-burger{
         display: flex;
